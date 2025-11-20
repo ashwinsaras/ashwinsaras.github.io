@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ashwin.saraswatula[at]case[dot]edu</p>
-    <a href='https://nehafury.github.io/'>Google Scholar</a>
+    <a href='https://ashwinsaras.github.io/'>Google Scholar</a>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -28,4 +28,4 @@ My research interests focus on understanding and improving the inner workings of
 
 3. **Alignment/Safety:** How do we ensure that increasingly capable systems behave reliably, faithfully, and in alignment with human goals and intentions?
 
-See [Ideas](https://nehafury.github.io/teaching) for open research questions and recent papers I’ve enjoyed thinking about
+See [Ideas](https://ashwinsaras.github.io/teaching) for open research questions and recent papers I’ve enjoyed thinking about
