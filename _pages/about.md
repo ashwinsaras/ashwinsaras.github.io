@@ -24,7 +24,7 @@ My research interests focus on understanding and improving the inner workings of
 
 1. **Interpretability:** How do models internally represent concepts and abstractions, and how do they deploy these representations to solve complex tasks?
 
-2. **Scientific Reasoning:** How do we build autonomous models capable of advanced reasoning and meaningful scientific discovery?
+2. **Scientific Agents:** How do we build autonomous models capable of advanced reasoning and meaningful scientific discovery?
 
 3. **Alignment/Safety:** How do we ensure that increasingly capable systems behave reliably, faithfully, and in alignment with human goals and intentions?
 
