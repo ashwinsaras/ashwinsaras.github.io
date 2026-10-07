@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ashwin.saraswatula[at]case[dot]edu</p>
+    <p>ashwin11[at]illinois[dot]edu</p>
     <a href='https://ashwinsaras.github.io/'>Google Scholar</a>
 
 news: false # includes a list of news items
