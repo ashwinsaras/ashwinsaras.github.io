@@ -26,6 +26,6 @@ My research interests focus on understanding and improving the inner workings of
 
 2. **Scientific Agents:** How do we build autonomous models capable of advanced reasoning and meaningful scientific discovery?
 
-3. **Alignment/Safety:** How do we ensure that increasingly capable systems behave reliably, faithfully, and in alignment with human goals and intentions?
+3. **Alignment & Safety:** How do we ensure that increasingly capable systems behave reliably, faithfully, and in alignment with human goals and intentions?
 
 See [Ideas](https://ashwinsaras.github.io/teaching) for open research questions and recent papers I’ve enjoyed thinking about
