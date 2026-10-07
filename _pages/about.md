@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello there 🙂 I am Ashwin — a first-year PhD student in Computer Science at the University of Illinois Urbana-Champaign, where I am advised by Professor [ChengXiang Zhai](https://czhai.cs.illinois.edu/). Previously, I earned a dual degree in Computer Science and Neuroscience from Case Western Reserve University and worked on EEG predictive models at Cleveland Clinic, where I was advised by Professor [Carl Saab](https://www.saablab.com/).
+Hello there 🙂 I am Ashwin — a first-year PhD student in Computer Science at UIUC, where I am advised by Professor [ChengXiang Zhai](https://czhai.cs.illinois.edu/). Previously, I earned a dual degree in Computer Science and Neuroscience from Case Western Reserve University and worked on EEG predictive models at Cleveland Clinic, where I was advised by Professor [Carl Saab](https://www.saablab.com/).
 
 My research interests focus on understanding and improving the inner workings of modern AI systems:
 
