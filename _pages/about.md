@@ -22,7 +22,7 @@ Hello there 🙂 I am Ashwin – an undergraduate student at Case Western Reserv
 
 My research interests focus on understanding and improving the inner workings of modern AI systems:
 
-1. **Interpretability:** How do models internally represent concepts and abstractions, and how do they deploy these representations to solve complex tasks?
+1. **Representation Learning:** How do models internally represent concepts and abstractions, and how do they deploy these representations to solve complex tasks?
 
 2. **Scientific Agents:** How do we build autonomous models capable of advanced reasoning and meaningful scientific discovery?
 
